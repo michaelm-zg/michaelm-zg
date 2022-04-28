@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @michaelm-zg
+- 👋 Hi, I’m @michaelm-zg, real name Michael McGlynn.
 - 👀 I’m interested in development, movies, music and pie.
 - 🌱 I’m currently learning how to cope.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate.
+- 📫 Reach me on Teams or via email.
 
 <!---
 michaelm-zg/michaelm-zg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
