@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning how to cope.
 - 💞️ I’m looking to collaborate.
 - 📫 Reach me on Teams or via email.
+- :electric_plug: I heat my house with static electricty
 
 <!---
 michaelm-zg/michaelm-zg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
